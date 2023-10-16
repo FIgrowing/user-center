@@ -1,0 +1,3 @@
+application-prod.yml
+# Project exclude paths
+/target/
